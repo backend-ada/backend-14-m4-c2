@@ -30,5 +30,5 @@ Ejecutando cualquiera de los comandos anteriores, el intérprete se encargará d
 
 ## Links de ayuda
 
-- [¿Cómo clonar un repositorio?][https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository]
-- [¿Cómo funciona NPM INSTALL y PACKAGE.JSON][https://www.adictosaltrabajo.com/2023/01/19/como-usar-npm-y-no-morir-en-el-intento/#package-json]
+- [¿Cómo clonar un repositorio?](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
+- [¿Cómo funciona NPM INSTALL y PACKAGE.JSON](https://www.adictosaltrabajo.com/2023/01/19/como-usar-npm-y-no-morir-en-el-intento/#package-json)
