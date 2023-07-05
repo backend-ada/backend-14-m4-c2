@@ -1,0 +1,15 @@
+{
+  "name": "backend-m4-c2",
+  "version": "1.0.0",
+  "description": "En este ejercicio vamos a clonar un repositorio del perfil de GitHub de Ada.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
