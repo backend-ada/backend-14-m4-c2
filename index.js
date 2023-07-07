@@ -11,10 +11,15 @@ const arr = [
 // ---------------------------------------------- MODIFICAR SOLO ↓↓↓
 
 function sumaDiagonal(array) {
-    // Completar esta función para que retorne la suma de los números de "arr" ubicados en la diagonal ascendente. 
-    // Usar los métodos forEach y reduce.
-    
-    // !!!COMPLETAR CON CÓDIGO POR AQUÍ!!!
+	const arrayReducido = array.reduce((accu, currentVal, index) => {
+		if (index % 2 == 0 && index != 0 && index != 8) {
+			return accu + currentVal;
+		} else {
+			return accu;
+		}
+	}, 0);
+
+	return arrayReducido;
 }
 
 // ---------------------------------------------- MODIFICAR SOLO ↑↑↑
